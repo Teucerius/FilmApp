@@ -1,0 +1,5 @@
+C:\Users\admin-fr04ab\source\repos\FilmApp\FilmApp\obj\Debug\netcoreapp3.1\FilmApp.csprojAssemblyReference.cache
+C:\Users\admin-fr04ab\source\repos\FilmApp\FilmApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\admin-fr04ab\source\repos\FilmApp\FilmApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\admin-fr04ab\source\repos\FilmApp\FilmApp\obj\Debug\netcoreapp3.1\FilmApp_MarkupCompile.cache
+C:\Users\admin-fr04ab\source\repos\FilmApp\FilmApp\obj\Debug\netcoreapp3.1\FilmApp_MarkupCompile.lref

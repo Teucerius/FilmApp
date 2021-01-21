@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOI2k3+oNQRnA33bpSc8IZwYZLZI/r28ZJwCssR4qv9qyXuQA5Szn3aOT/WZTsXgtKjrsb9gWVKBW2VvMfvmhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin-fr04ab\\source\\repos\\FilmApp\\FilmApp\\FilmApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin-fr04ab\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\admin-fr04ab\\.nuget\\packages\\mahapps.metro\\2.4.3\\mahapps.metro.2.4.3.nupkg.sha512",
+    "C:\\Users\\admin-fr04ab\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\admin-fr04ab\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
